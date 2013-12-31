@@ -1,0 +1,15 @@
+[submodule "lib/iniparser"]
+	path = lib/iniparser
+	url = git://github.com/ndevilla/iniparser.git
+[submodule "simplehttp"]
+	path = simplehttp
+	url = git://github.com/bitly/simplehttp.git
+[submodule "json-c"]
+	path = json-c
+	url = git://github.com/json-c/json-c.git
+[submodule "lib/simplehttp"]
+	path = lib/simplehttp
+	url = git://github.com/bitly/simplehttp.git
+[submodule "lib/json-c"]
+	path = lib/json-c
+	url = git://github.com/json-c/json-c.git
